@@ -1,6 +1,6 @@
-# bloc_counter
+# cubit_counter
 
-A new Flutter project.
+Başlangıç uygulaması olan counter uygulamasının Cubit kullanarak yapılmış halidir. Referans olarak görülebilir.
 
 ## Getting Started
 
