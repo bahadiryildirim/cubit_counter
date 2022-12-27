@@ -1,6 +1,6 @@
 # cubit_counter
 
-Başlangıç uygulaması olan counter uygulamasının Cubit kullanarak yapılmış halidir. Referans olarak görülebilir.
+Başlangıç uygulaması olan counter uygulamasının Cubit kullanarak geliştirilmiş halidir. Referans olarak görülebilir.
 
 ## Getting Started
 
